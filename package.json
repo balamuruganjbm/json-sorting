@@ -3,12 +3,9 @@
 	"version": "1.0.1",
 	"description": "Function used to sort the array having object literals",
 	"main": "index.js",
-	"keywords": [
-		"json",
-		"sorting"
-	],
+	"keywords": [ "json", "sorting" ],
 	"author": "Balamurugan J",
-	"license": "ISC",
+	"license": "MIT",
 	"dependencies": {
 		"get-value": "^3.0.1"
 	}
