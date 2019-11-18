@@ -1,7 +1,6 @@
 # json-sorting
 It helps to sort the json file either ascending or descending order using the desired key.
-> It helps to sort the json file either ascending or descending using the desired key.
-Before using this function first parse the json file and make it as a single array containing the series of objects.Before using this function first parse the json file and make it as a single array containing the series of objects.
+> Before using this function first parse the json file and make it as a single array containing the series of objects.Before using this function first parse the json file and make it as a single array containing the series of objects.
 
 ## Installation
    	npm install --save json-sorting
