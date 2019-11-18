@@ -1,9 +1,12 @@
 {
 	"name": "json-sorting",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Function used to sort the array having object literals",
 	"main": "index.js",
-	"keywords": [ "json", "sorting" ],
+	"keywords": [
+		"json",
+		"sorting"
+	],
 	"author": "Balamurugan J",
 	"license": "ISC",
 	"dependencies": {
